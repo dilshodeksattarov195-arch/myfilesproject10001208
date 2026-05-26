@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingronnect",
+        "uuid": 4287192,
+        "checksum": "ssnw18"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
